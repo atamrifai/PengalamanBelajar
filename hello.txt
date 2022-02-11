@@ -1,3 +1,4 @@
 # Hello ini cabang baru
 ## cabang baru dibuat untuk latihan ketika sudah *sampai* menjadi software engineering
 < Yok bisa semangat
+* Bismillah skuy!
